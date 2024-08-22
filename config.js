@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 //inserisci il tuo o i tuoi numeri 
 
 global.owner = [
-  ['393518398856', 'nobody|']
+  ['393201391411', 'spidy']
 
 ] //inserisci il tuo o i tuoi numeri 
 
